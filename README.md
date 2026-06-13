@@ -1,5 +1,5 @@
 # Hear-Me-Out
-Hear Me Out was amde by Angela Zhou and Lexi Sun.
+Hear Me Out was made by Angela Zhou and Lexi Sun.
 It is used to decide ideas for how to improve schools and help underrepresented students benefit their schools.
 Instructions:
 1. Start the code
